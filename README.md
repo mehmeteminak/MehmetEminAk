@@ -3,7 +3,7 @@
 
 - Hi,I'm currently studying at **University of Zaragoza**
 
-- 🌱 I’m currently learning **Swift**
+- I’m currently developing **Swift** Applications
 
 - 💬 Ask me about **Swift**
 
