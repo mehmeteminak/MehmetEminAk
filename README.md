@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm MEHMET</h1>
-<h3 align="center">A passionate mobile developer from Turkey</h3>
+<h3 align="center">A passionate full stack developer from Turkey</h3>
 
-- Hi,I'm currently studying at **University of Zaragoza**
 
-- I’m currently developing **Swift** Applications
+- I’m currently developing native iOS applications with **Swift** and backend systems for mobile applications with **Php**
 
-- 💬 Ask me about **Swift**
+- 💬 Ask me about **Swift** 
 
-- 📫 You can reach me from **akmehmetemin44@gmail.com**
+- 📫 If you have any questions don't hesitate to reach me from this mail address **akmehmetemin44@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
