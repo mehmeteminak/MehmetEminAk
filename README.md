@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm MEHMET</h1>
-<h3 align="center">A passionate full stack developer from Turkey</h3>
+<h3 align="center">A passionate full stack developer from Italy</h3>
 
 
-- I’m currently developing native iOS applications with **Swift** and backend systems for mobile applications with **Php**
+- I’m currently developing Spring Boot applications with and frontend project by using Quasar (a Vue framework)
 
-- 💬 Ask me about **Swift** 
+- 💬 Ask me about Spring Boot 
 
 - 📫 If you have any questions don't hesitate to reach me from this mail address **akmehmetemin44@gmail.com** 
 
